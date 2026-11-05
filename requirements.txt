@@ -1,0 +1,9 @@
+# SMARTBUS – Python 3.9+ is required.
+#
+# Tkinter and sqlite3 ship with Python itself (on some Linux distributions
+# Tkinter is a separate system package: sudo apt install python3-tk).
+#
+# Optional: dashboard charts. The app runs without it and shows a notice.
+matplotlib>=3.5
+# Testing
+pytest>=7.0

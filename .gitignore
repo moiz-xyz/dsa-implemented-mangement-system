@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Local runtime data (re-created automatically on first launch)
+data/*.db
+data/*.db-journal
+exports/
